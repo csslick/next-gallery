@@ -1,5 +1,5 @@
 # next-gallery
-데모: URL
+데모: https://csslick.github.io/next-gallery/
 
 ## 소개
 넘기기 기능 Basic 갤러리
